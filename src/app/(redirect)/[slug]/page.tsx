@@ -9,7 +9,7 @@ const Redirects = ({ params }: { params: { slug: string } }) => {
     const redirects: Redirect[] = [
         {
             path: "/discord",
-            url: "https://discord.gg/lair",
+            url: "https://discord.gg/lairbot",
         },
         {
             path: "/support",
