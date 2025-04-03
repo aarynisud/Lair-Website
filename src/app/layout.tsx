@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     type: 'website',
     title: 'lair',
     siteName: 'lair.rocks',
-    description: 'An all in one bot dedicated to providing the best experience to the best servers on Discord. ',
+    description: 'An All in one bot dedicated to providing the best experience to the best servers on Discord. ',
     images: [
       {
         url: 'https://r2.lair.rocks/lair.webp',
