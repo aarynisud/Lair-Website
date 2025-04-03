@@ -11,21 +11,21 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "evict",
+  title: "lair",
   description: "An all in one bot dedicated to providing the best experience to the best servers on Discord. ",
   twitter: {
-    site: 'https://evict.cc',
+    site: 'https://lair.rocks',
     card: 'player'
   },
   openGraph: {
-    url: 'https://evict.cc',
+    url: 'https://lair.rocks',
     type: 'website',
-    title: 'evict',
-    siteName: 'evict.cc',
+    title: 'lair',
+    siteName: 'lair.rocks',
     description: 'An all in one bot dedicated to providing the best experience to the best servers on Discord. ',
     images: [
       {
-        url: 'https://r2.evict.cc/evict.webp',
+        url: 'https://r2.lair.rocks/lair.webp',
         width: 500,
         height: 500,
         alt: 'Loti'
