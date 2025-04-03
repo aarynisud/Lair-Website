@@ -9,11 +9,11 @@ const Redirects = ({ params }: { params: { slug: string } }) => {
     const redirects: Redirect[] = [
         {
             path: "/discord",
-            url: "https://discord.gg/evict",
+            url: "https://discord.gg/lair",
         },
         {
             path: "/support",
-            url: "https://discord.gg/evict",
+            url: "https://discord.gg/lair",
         },
         {
             path: "/cmds",
@@ -25,7 +25,7 @@ const Redirects = ({ params }: { params: { slug: string } }) => {
         },
         {
             path: "/invite",
-            url: "https://discordapp.com/oauth2/authorize?client_id=1203514684326805524&scope=bot+applications.commands&permissions=8",
+            url: "https://discordapp.com/oauth2/authorize?client_id=1356640843129290822&scope=bot+applications.commands&permissions=8",
         },
         {
             path: "/docs",
