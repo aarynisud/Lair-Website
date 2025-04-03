@@ -10,6 +10,7 @@ import { FaBookOpen, FaMoneyBillWaveAlt } from "react-icons/fa";
 import "@/styles/globals.css";
 import Link from 'next/link'
 
+# Test
 
 export default function Home() {
     const [stats, setStats] = useState({ members: 0, servers: 0 });
