@@ -47,7 +47,7 @@ export default function Home() {
                     src="https://r2.evict.cc/evict.png"
                     className="w-52 h-52 rounded-xl"
                 />
-                <h1 className="text-6xl font-bold text-white">evict</h1>
+                <h1 className="text-6xl font-bold text-white">lair</h1>
                 <span className="text-sm pb-4 text-zinc-300 text-center">
                     An all in one bot dedicated to providing the best experience to the best servers on Discord. 
                 </span>
